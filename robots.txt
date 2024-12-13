@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://ice-010.github.io/blog/blog/sitemap.xml
