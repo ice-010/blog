@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 素笺
-heroImage: https://cdn.jsdelivr.net/gh/ice-010/resources/头像1.jpg
+heroImage: https://cdn.jsdelivr.net/gh/ice-010/resources/原.jpg
 heroText: 素笺
 heroFullScreen: true
 tagline: 山野皆有雾灯，漂泊亦能归舟
