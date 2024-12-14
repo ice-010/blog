@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 素笺
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://cdn.jsdelivr.net/gh/ice-010/resources/头像1.jpg
 heroText: 素笺
 heroFullScreen: true
 tagline: 山野皆有雾灯，漂泊亦能归舟
@@ -20,7 +20,7 @@ projects:
 
   - icon: link
     name: BUUCTF
-    desc: 书籍详细描述
+    desc: CTF靶场
     link: https://buuoj.cn/challenges
 
   - icon: article
@@ -33,10 +33,10 @@ projects:
     desc: 书籍详细描述
     link: https://你的书籍链接
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
+  - icon: friend
+    name: 孙永智
+    desc: 一个人
+    link: https://bai-tao520.github.io/blog/
 
 footer: 浮生若梦
 ---
